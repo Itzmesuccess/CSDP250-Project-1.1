@@ -1,5 +1,5 @@
-#ifndef CourseList_hpp
-#define CourseList_hpp
+#ifndef CourseList_h
+#define CourseList_h
 
 #include <string>
 
