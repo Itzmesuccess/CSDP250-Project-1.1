@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "CourseList.hpp"
+#include "CourseList.h"
 
 using namespace std;
 
